@@ -1,0 +1,11 @@
+{
+  "version": "1.0.1",
+  "homepage": "https://github.com/dbarbuzzi/smudgetools",
+  "url": "https://github.com/dbarbuzzi/smudgetools/releases/download/v1.0.1/smudgetools_1.0.1_Windows_64bit.zip",
+  "hash": "41823e22a70dd9f5a9215a0eed5246276db35f4b8bf76e7e5eba6c494a212b48",
+  "bin": "smudge.exe",
+  "checkver": "github",
+  "autoupdate": {
+    "url": "https://github.com/dbarbuzzi/smudgetools/releases/download/v$version/smudgetools_$version_Windows_64bit.zip"
+  }
+}
