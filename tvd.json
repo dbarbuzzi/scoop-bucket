@@ -1,0 +1,17 @@
+{
+    "version": "0.4.0-beta",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/dbarbuzzi/tvd/releases/download/v0.4.0-beta/tvd_0.4.0-beta_Windows_32bit.zip",
+            "bin": "tvd.exe",
+            "hash": "910c680a7a077490ca8368815a0708b1819212c23cbb339a723368e0e5afbe20"
+        },
+        "64bit": {
+            "url": "https://github.com/dbarbuzzi/tvd/releases/download/v0.4.0-beta/tvd_0.4.0-beta_Windows_64bit.zip",
+            "bin": "tvd.exe",
+            "hash": "f72a0ab381b7c29f0164d269174bfaa34cb0a9c340e07a7b7b00899e88990607"
+        }
+    },
+    "homepage": "https://github.com/dbarbuzzi/tvd",
+    "description": "Download Twitch VODs"
+}
