@@ -1,11 +1,17 @@
 {
-  "version": "1.0.1",
-  "homepage": "https://github.com/dbarbuzzi/smudgetools",
-  "url": "https://github.com/dbarbuzzi/smudgetools/releases/download/v1.0.1/smudgetools_1.0.1_Windows_64bit.zip",
-  "hash": "41823e22a70dd9f5a9215a0eed5246276db35f4b8bf76e7e5eba6c494a212b48",
-  "bin": "smudge.exe",
-  "checkver": "github",
-  "autoupdate": {
-    "url": "https://github.com/dbarbuzzi/smudgetools/releases/download/v$version/smudgetools_$version_Windows_64bit.zip"
-  }
+    "version": "1.1.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/dbarbuzzi/smudgetools/releases/download/v1.1.0/smudgetools_1.1.0_Windows_32bit.zip",
+            "bin": "smudge.exe",
+            "hash": "76308e71b239ef33c05cadba5ce565c824fb7a74f682a2347ad0cdd51205eb15"
+        },
+        "64bit": {
+            "url": "https://github.com/dbarbuzzi/smudgetools/releases/download/v1.1.0/smudgetools_1.1.0_Windows_64bit.zip",
+            "bin": "smudge.exe",
+            "hash": "5dde24e1def464cc0bc04d946f38692bcfb68e6c8829c480ad551329f651853a"
+        }
+    },
+    "homepage": "https://github.com/dbarbuzzi/smudgetools",
+    "description": "Tools for my work with smudge comics"
 }
