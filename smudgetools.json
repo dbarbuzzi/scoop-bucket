@@ -1,19 +1,19 @@
 {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/dbarbuzzi/smudgetools/releases/download/v1.2.0/smudgetools_1.2.0_Windows_32bit.zip",
+            "url": "https://github.com/dbarbuzzi/smudgetools/releases/download/v1.2.1/smudgetools_1.2.1_Windows_32bit.zip",
             "bin": [
                 "smudge.exe"
             ],
-            "hash": "fe71591b4e84c59bdf28b44cef94544079cbd5481f67ac75dd8ef844d882b8e6"
+            "hash": "4ebf112c4f7b94463fa57eef1adedfece85dedc24e6e8e09957173a4c668a5e9"
         },
         "64bit": {
-            "url": "https://github.com/dbarbuzzi/smudgetools/releases/download/v1.2.0/smudgetools_1.2.0_Windows_64bit.zip",
+            "url": "https://github.com/dbarbuzzi/smudgetools/releases/download/v1.2.1/smudgetools_1.2.1_Windows_64bit.zip",
             "bin": [
                 "smudge.exe"
             ],
-            "hash": "efbb499a679e55a3bb123f3639b5e8c71a3f5b75abc3fef4b2cfc3582b5ea127"
+            "hash": "49f9c7b102e6d07428f213bf80d009c81ae8a519ddc7c31750d978f50b7d382b"
         }
     },
     "homepage": "https://github.com/dbarbuzzi/smudgetools",
