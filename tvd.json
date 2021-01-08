@@ -1,12 +1,12 @@
 {
-    "version": "0.4.4",
+    "version": "0.5.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dbarbuzzi/tvd/releases/download/v0.4.4/tvd_0.4.4_windows_amd64.zip",
+            "url": "https://github.com/dbarbuzzi/tvd/releases/download/v0.5.0/tvd_0.5.0_windows_amd64.zip",
             "bin": [
                 "tvd.exe"
             ],
-            "hash": "4c372ce2a4e3bec8ac706c5950c0efb94c57c1889260816710e0885d86a7f71e"
+            "hash": "7f1962e14534c0c3d804cf34847d86910a7ad3e2a1f0c316791bea0550adddc4"
         }
     },
     "homepage": "https://github.com/dbarbuzzi/tvd",
